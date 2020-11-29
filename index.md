@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to TolkienEssays
 
-You can use the [editor on GitHub](https://github.com/nathan-b/tolkienessays/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Nathan, and I've been a fan of J.R.R. Tolkien and his works since I first read _The Hobbit_ as a child.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+One of the most engaging aspects of Tolkien's Legendarium (as his collected works are called) is how he created an entire (mostly) self-consistent world from first principles. He didn't just create the world, he created the rules which the world follows. He created the languages and the species and the culture, and he showed his work. While he never lived to see the publication of _The Silmarillion_, since his death his son Christopher has published over a dozen volumes both explaining and exploring the foundations of this created world and also delving into the history of its evolution in Tolkien's own mind.
 
-### Markdown
+As a result, the Legendarium is a fertile ground for investigation and exposition in a way that only a few other fictional spaces are.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For several years, I've spent time reading not just the works of Professor Tolkien and his son but also questions and commentary provided by fans. Although there are many vibrant online fandoms -- and there have been since the dayse of Usenet -- the ones I focus on are the [TolkienFans](https://www.reddit.com/r/tolkienfans/) and (less frequently) [TheSilmarillion](https://www.reddit.com/r/thesilmarillion) Subreddits. I have found these communities to be delightfully text-focused (both in the sense that movie-related posts are looked upon very unfavorably and also in the sense that headcanon, theories, and fan-fiction are only acceptable to the degree that they are well-grounded in the original text). They are also an unending source of questions, both from new readers unsure of the basics to grizzled Tolkien veterans wondering about an obscure corner of the Legendarium.
 
-```markdown
-Syntax highlighted code block
+In early 2020, as a result of global events occurring at that time, I took up the habit of blogging. Though the primary focus was true stories remembered from my own life, I would occasionally weary my readers by writing overly-verbose monographs on various Tolkien-related subjects, usually in response to seeing a preponderance of questions on the topic at hand posted to one of the above Subreddits.
 
-# Header 1
-## Header 2
-### Header 3
+Eventually, I grew tired of having these essays attached to my personal blog. Hence, this site.
 
-- Bulleted
-- List
+### Meta-ramblings about this site
 
-1. Numbered
-2. List
+Despite having run two different blogs and being passably familiar with a number of Web technologies, this is my first time creating a site using GitHub pages. The whole process is disconcertingly public, and I have to keep reminding myself that the world at large is entirely indifferent to my fumblings and missteps. I hope that by the time you are reading this paragraph, I have figured the technology out to the point where it all looks reasonably professional. As the whole thing is public on GitHub, the proficient may look back through history to view all my missteps and failed attempts. As mentioned above, I take great solace in the belief that the vast majority of people have utterly no desire to do so.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathan-b/tolkienessays/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site is currently under construction. Unless it isn't, and I have forgotten to remove this disclaimer. Even should that be the case the statement will not be completely false, as my intent is for this site to remain under construction for its entire existence. In any case, if you have arrived at this site and found a distressing lack of content, it is not you who have done something wrong but I. Fear not. Simply bookmark it and return at a later date, one in which hopefully I have sorted out my mistakes.
