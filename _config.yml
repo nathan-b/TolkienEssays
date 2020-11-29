@@ -1,9 +1,4 @@
-#theme: jekyll-theme-slate
-remote_theme: thelehhman/texture
-texture:
-  title: Tolkien Essays
-  tagline: Thoughtful exposition on Tolkien's Legendarium.
-  date_format: "%b %-d, %Y"
-  showPicker: false
-  showNav: false
-  show_excerpts: true
+theme: jekyll-theme-slate
+title: Tolkien Essays
+description: Thoughtful exploration and exposition of Tolkien's Legendarium
+show_downloads: false
