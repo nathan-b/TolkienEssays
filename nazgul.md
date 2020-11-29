@@ -40,6 +40,8 @@ The Rings granted the Men what they desired: long life. However, they also allow
 
 (I note that the quote above states they _became_ kings, sorcerers, and warriors. It's not necessarily the case that they were so beforehand. It's popularly stated that Sauron gave the rings to kings and warriors, but I don't believe that's ever written by Tolkien.)
 
+For a longer and more detailed discussion of the Rings of Power, please see my [essay](rings.md) on the subject!
+
 ## Do the Nazgûl still hold the Nine Rings?
 
 No.
