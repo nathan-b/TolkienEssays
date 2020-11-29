@@ -15,8 +15,6 @@ The history of the Rings with accompanying exposition on their powers and ultima
 ## Thanks for reading
 That's it for now! 
 
-If you would like to stay up to date on the latest posts on this site, you could possibly import my [Atom feed](feed.xml) into your feed reader.
-
-If you do not use a feed reader, your only other real option is to subscribe to [my blog](https://strangetalesforstrangetimes.wordpress.com/) where I post about many things but will also make a post whenever I update this site.
+If you would like to stay up to date on the latest posts on this site, currently your only real option is to subscribe to [my blog](https://strangetalesforstrangetimes.wordpress.com/) where I post about many things but will also make a post whenever I update this site.
 
 Or I suppose you could just visit the page a lot. That will work too.
