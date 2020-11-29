@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 title: Tolkien Essays
 description: Thoughtful exploration and exposition of Tolkien's Legendarium
+author: Nathan Baker
 show_downloads: false
+plugins:
+  - jekyll-feed
