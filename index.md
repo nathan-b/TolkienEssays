@@ -1,19 +1,22 @@
-## Welcome to TolkienEssays
+# Welcome to Tolkien Essays
 
-My name is Nathan, and I've been a fan of J.R.R. Tolkien and his works since I first read _The Hobbit_ as a child.
+[About this site](about.md)
 
-One of the most engaging aspects of Tolkien's Legendarium (as his collected works are called) is how he created an entire (mostly) self-consistent world from first principles. He didn't just create the world, he created the rules which the world follows. He created the languages and the species and the culture, and he showed his work. While he never lived to see the publication of _The Silmarillion_, since his death his son Christopher has published over a dozen volumes both explaining and exploring the foundations of this created world and also delving into the history of its evolution in Tolkien's own mind.
+## The essays
+**[Nazgûl](nazgul.md)**\
+A look into the Black Riders, also known as the Nazgûl, answering common questions regarding their powers, their origins, and some what-if scenarios involving the Rings.
 
-As a result, the Legendarium is a fertile ground for investigation and exposition in a way that only a few other fictional spaces are.
+**[Orcs](orcs.md)**\
+A detailed and text-based investigation into the nature and origin of Orcs.
 
-For several years, I've spent time reading not just the works of Professor Tolkien and his son but also questions and commentary provided by fans. Although there are many vibrant online fandoms -- and there have been since the dayse of Usenet -- the ones I focus on are the [TolkienFans](https://www.reddit.com/r/tolkienfans/) and (less frequently) [TheSilmarillion](https://www.reddit.com/r/thesilmarillion) Subreddits. I have found these communities to be delightfully text-focused (both in the sense that movie-related posts are looked upon very unfavorably and also in the sense that headcanon, theories, and fan-fiction are only acceptable to the degree that they are well-grounded in the original text). They are also an unending source of questions, both from new readers unsure of the basics to grizzled Tolkien veterans wondering about an obscure corner of the Legendarium.
+**[The Rings of Power](rings.md)**\
+The history of the Rings with accompanying exposition on their powers and ultimate fate.
 
-In early 2020, as a result of global events occurring at that time, I took up the habit of blogging. Though the primary focus was true stories remembered from my own life, I would occasionally weary my readers by writing overly-verbose monographs on various Tolkien-related subjects, usually in response to seeing a preponderance of questions on the topic at hand posted to one of the above Subreddits.
+## Thanks for reading
+That's it for now! 
 
-Eventually, I grew tired of having these essays attached to my personal blog. Hence, this site.
+If you would like to stay up to date on the latest posts on this site, you could possibly import my [Atom feed](feed.xml) into your feed reader.
 
-### Meta-ramblings about this site
+If you do not use a feed reader, your only other real option is to subscribe to [my blog](https://strangetalesforstrangetimes.wordpress.com/) where I post about many things but will also make a post whenever I update this site.
 
-Despite having run two different blogs and being passably familiar with a number of Web technologies, this is my first time creating a site using GitHub pages. The whole process is disconcertingly public, and I have to keep reminding myself that the world at large is entirely indifferent to my fumblings and missteps. I hope that by the time you are reading this paragraph, I have figured the technology out to the point where it all looks reasonably professional. As the whole thing is public on GitHub, the proficient may look back through history to view all my missteps and failed attempts. As mentioned above, I take great solace in the belief that the vast majority of people have utterly no desire to do so.
-
-This site is currently under construction. Unless it isn't, and I have forgotten to remove this disclaimer. Even should that be the case the statement will not be completely false, as my intent is for this site to remain under construction for its entire existence. In any case, if you have arrived at this site and found a distressing lack of content, it is not you who have done something wrong but I. Fear not. Simply bookmark it and return at a later date, one in which hopefully I have sorted out my mistakes.
+Or I suppose you could just visit the page a lot. That will work too.
