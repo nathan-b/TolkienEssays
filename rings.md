@@ -8,7 +8,7 @@ That's where I come in.
 
 The answer to this question begins, as do so many answers to questions in the Legendarium, with a story.
 
-After the defeat of Melkor in the War of Wrath, a group of Elves settled in a place called Eregion. These Elves were craftsmen, friends of the Dwarves in Moria (the most reliable source of mithril). The most skilled craftsmen of this group were called the Gwaith-i-Mirdain, which is Sindarin for "the people of the jewel-smiths." They were Noldor Elves, descendants of Finwë, known as the strongest and most powerful group of Elves. Such luminaries as Galadriel, Elrond (sorta), and Gil-galad were Noldorin. Due to a bit of a kerfuffle called the Kinslaying, the Noldor got themselves kicked out of Valinor and had to go to Middle-earth _en masse_. After the War of Wrath, most of them were permitted to come back to the West, should they wish, but many chose to settle in Middle-earth instead.
+After the defeat of Melkor in the War of Wrath, a group of Elves settled in a place called Eregion. These Elves were craftsmen, friends of the Dwarves in Moria (the most reliable source of mithril). The most skilled craftsmen of this group were called the Gwaith-i-Mirdain, which is Sindarin for "the people of the jewel-smiths." They were Noldor Elves, descendants of Finwë, known as the strongest and most powerful group of Elves. Such luminaries as Galadriel, Elrond (sorta), and Gil-galad were Noldorin. Due to a bit of a kerfuffle called the Kinslaying, the Noldor got themselves kicked out of Valinor and had to go to Middle-earth _en masse_. After the War of Wrath most of them were permitted to come back to the West, should they wish, but many chose to settle in Middle-earth instead.
 
 Despite rejecting their ancestral homeland, the Elven soul still contains a yearning for Valinor (this is another story in itself). The Elves in Eregion had a thought: what if we could have the best of both worlds? What we we could build ourselves a mini-Valinor right here in Middle-earth?
 
@@ -52,7 +52,7 @@ Elves are connected with Arda, the created world, in a way that Men are not. Elv
 
 Men, on the other hand, are a bit...out of place on Arda. They lack the deep connection the Elves have. The Rings do not do much to preserve their land, because the land is not a part of them as it's a part of the Elves. Rather, the Rings preserve their own bodies, their mortal lifespans. This isn't really the intended purpose -- the Elven smiths likely didn't give much thought to the idea of Men using their Rings -- but it explains how the [Nazgûl](nazgul.md) came to be.
 
-Those rings that Sauron touched also had additional properties. They caused the wearer to fade from the physical world, remaining as but a shadow. However, they also made the wearer supremely visible in the unseen spiritual world. This property isn't really related to any of the other powers, and is present mostly because Tolkien wrote a ring of invisibility into _The Hobbit_ and needed it to retain those powers. If only the One Ring turned the wearer invisible, though, Gandalf would look like a right fool for not figuring out right away what Bilbo's ring was. So all the Rings that Sauron touched have this property. But the wearers of the Three are notoriously not invisible, so only the seventeen Rings that Sauron's hand shaped have this property.
+Those Rings that Sauron touched also had additional properties. They caused the wearer to fade from the physical world, remaining as but a shadow. At the same time, they also made the wearer supremely visible in the unseen spiritual world. This property isn't really related to any of the other powers, and is present mostly because Tolkien wrote a ring of invisibility into _The Hobbit_ and needed it to retain those powers. If only the One Ring turned the wearer invisible, though, Gandalf would look a right fool for not figuring out right away what Bilbo's ring was. So all the Rings that Sauron touched have this property. But the wearers of the Three are notoriously not invisible, so only the seventeen Rings that Sauron's hand shaped have this property.
 
 The nineteen non-Ruling Rings had another fun feature as well: 
 
@@ -104,7 +104,7 @@ To my knowledge the One never left Sauron until S.A. 3441, when it was claimed b
 
 At least one person knew of the verse before Isildur copied it down: Celebrimbor. However, the Ring Verse is likely not written by Celebrimbor himself, as the unfortunate smith died in SA 1697 at the hands of Sauron. Perhaps Sauron began distributing the Rings prior to being driven out of Eriador in SA 1701, but he almost certainly hadn't fully distributed them (the first Nazgûl don't appear until SA 2251, some of whom originate far from Eriador). Some theorize that Celebrimbor actually distributed at least one of the Seven himself before his death, though _The Silmarillion_ is fairly firm on the issue. As mentioned above, _Unfinished Tales_ tells a slightly different story of this event, already differentiating between the Three, Seven, and Nine soon after their forging.
 
-In the current version of events, it seems likely to me that the Ring poem was written by one of the Gwaith-i-Mirdain who survived the destruction of Eregion and worked to figure out what happened to the other Rings. Perhaps the unknown author was told the One Ring couplet by Celebrimbor, or perhaps heard it personally as one of the other Ring-wearers. 
+In the current version of events, it seems likely to me that the Ring poem was written by one of the Gwaith-i-Mirdain who survived the destruction of Eregion and worked to figure out what happened to the other Rings. Perhaps the unknown author was told the One Ring couplet by Celebrimbor, or perhaps he or she heard it personally as one of the other Ring-wearers. 
 
 ## Why couldn't the good guys use the Ring to fight Sauron?
 
@@ -172,17 +172,17 @@ Ultimately, though, the Ring has no "intelligence" of its own. It is not a think
 
 The destruction of the Ring did not destroy Sauron completely. But it _effectively_ destroyed him, leaving him powerless to do anything.
 
-It _did_ destroy Barad-dûr, Sauron's tower, though. That wasn't just in the movies. Many may have been left wondering why the Ring was somehow a load-bearing element of the tower.
+It _did_ destroy Barad-dûr, Sauron's tower, though. That wasn't just in the movies. Many may have been left wondering why destroying the Ring caused the tower to collapse.
 
-The tower's foundations were made through the power of the Ring, so in a sense, yes, the Ring was a load-bearing element of the tower: "The Dark Tower was broken, but its foundations were not removed; for they were made with the power of the Ring, and while it remains they will endure." However, I've heard from a number of civil engineers who point out that Barad-dûr as a structure would almost certainly not be able to stand up under its own weight without magical assistance. I love the thought that Sauron had to use a certain amount of his own power at all times just to keep his tower from falling over. When Sauron lost his power with the destruction of the Ring, the tower toppled.
+The tower's foundations were made through the power of the Ring. In a sense, the Ring was a load-bearing element of the tower: "The Dark Tower was broken, but its foundations were not removed; for they were made with the power of the Ring, and while it remains they will endure." However, I've heard from a number of civil engineers who point out that Barad-dûr as a structure would almost certainly not be able to stand up under its own weight without magical assistance. I love the thought that Sauron had to use a certain amount of his own power at all times just to keep his tower from falling over. When Sauron lost his power with the destruction of the Ring, the tower toppled.
 
-Ultimately, Sauron put so much of his own power into the Ring that without it, he was nothing. Gandalf states as much:
+As for Sauron himself, he put so much of his own power into the Ring that without it, he was nothing. Gandalf states as much:
 
 > "If it is destroyed, then he will fall; and his fall will be so low that none can foresee his arising ever again. For he will lose the best part of the strength that was native to him in his beginning, and all that was made or begun with that power will crumble, and he will be maimed for ever, becoming a mere spirit of malice that gnaws itself in the shadows, but cannot again grow or take shape. And so a great evil of this world will be removed."
 >
 > Gandalf, JRR Tolkien, _The Return of the King_, "The Last Debate"
 
-This wasn't the first time that Sauron was faced with destruction. One of the great love stories in the Legendarium is that of Beren and Lúthien. Beren was a Man, and Lúthien was an Elf (really, half-Elf and half-Maia, but that's a discussion for another time), yet they loved each other. Beren was captured by Sauron pre-Ring. Lúthien and an amazingly Good Boy named Huan kicked Sauron's teeth in and threatened him with bodily destruction (yes, in the Legendarium the Princess rescued Mario). This is described in what is easily one of the top ten most metal passages in the Legendarium:
+This wasn't the first time that Sauron was faced with destruction. One of the great love stories in the Legendarium is that of Beren and Lúthien. Beren was a Man, and Lúthien was an Elf (really, half-Elf and half-Maia, but that's a discussion for another time), yet they loved each other. Beren was captured by Sauron pre-Ring. Lúthien and an amazingly Good Boy named Huan kicked Sauron's teeth in and threatened him with bodily destruction (the Princess rescued Mario). This is described in what is easily one of the top ten most metal passages in the Legendarium:
 
 > But no wizardry nor spell, neither fang nor venom, nor devil's art nor beast-strength, could overthrow Huan of Valinor; and he took his foe by throat and pinned him down. Then Sauron shifted shape, from wolf to serpent, and from monster to his own accustomed form; but he could not elude the grip of Huan without forsaking his body utterly. Ere his foul spirit left its dark house, Lúthien came to him, and said that he should be stripped of his raiment of flesh, and his ghost be sent quaking back to Morgoth; and she said: 'There everlastingly thy naked self shall endure the torment of his scorn, pierced by his eyes, unless thou yield to me the mastery of thy tower.'
 >
@@ -204,7 +204,9 @@ After the Ring was destroyed, Lúthien's threat finally became real and Sauron w
 
 ## What happened to the other Rings after the One was destroyed?
 
-> "But what then would happen, if the Ruling Ring were destroyed as you counsel?" asked Glóin."We know not for certain," answered Elrond sadly. "Some hope that the Three Rings, which Sauron has never touched, would then become free, and their rulers might heal the hurts of the world that he has wrought. But maybe when the One has gone, the Three will fail, and many fair things will fade and be forgotten. That is my belief."
+> "But what then would happen, if the Ruling Ring were destroyed as you counsel?" asked Glóin.
+> 
+> "We know not for certain," answered Elrond sadly. "Some hope that the Three Rings, which Sauron has never touched, would then become free, and their rulers might heal the hurts of the world that he has wrought. But maybe when the One has gone, the Three will fail, and many fair things will fade and be forgotten. That is my belief."
 >
 > JRR Tolkien, _The Fellowship of the Ring_, "The Council of Elrond"
 
@@ -223,10 +225,10 @@ The end of an Age.
 ## Annotated Bibliography
 
 _The Letters of J.R.R. Tolkien_. Humphrey Carpenter, editor.
- - Letter 131: In this letter, Tolkien is trying to sell his ideas to a potential publisher. He summarizes basically the entire _Silmarillion_ and _The Lord of the Rings_ in an attempt to explain the nature of the works and their relation to one another. For many questions about the fundamentals of _The Silmarillion_, Letter 131 is an essential resource. [Thanks to /u/Armleuchterchen on Reddit for helping me clarify this description!]
- - Letter 144: This letter is between Tolkien and a proof-reader, Naomi Mitchison. She wrote to Tolkien with some questions about the contents of the manuscript, which he is addressing in this letter. Ms. Mitchison was an attentive and inquisitive reader, and many of her questions are also questions that later readers (such as myself) also have.
+ - Letter 131: In this letter, Tolkien is trying to sell his ideas to a potential publisher. He summarizes basically the entire _Silmarillion_ and _The Lord of the Rings_ in an attempt to explain the nature of the works and their relation to one another. For many questions about the fundamentals of _The Silmarillion_, Letter 131 is an essential resource. [Thanks to Armleuchterchen on Reddit for helping me clarify this description!]
+ - Letter 144: This letter is between Tolkien and his attentive and inquisitive proof-reader, Naomi Mitchison. She wrote to Tolkien with some questions about the contents of the manuscript, which he is addressing in this letter. Many of her questions are questions that later readers (such as myself) also have.
  - Letter 200: Tolkien in this letter answers a correspondent by the name of Major R. Bowen who wrote with a specific question about Sauron and his physical form.
- - Letter 246: A letter to a Eileen Elgar, who wrote to Tolkien with some comments regarding Frodo's failure to destroy the Ring at the end. This letter contains some interesting speculation on what would have happened if Gollum had not intervened, or if Gollum had managed to claim the Ring, or if Sam had not come into conflict with Gollum and run him off. This letter contains quite a bit of information on "claiming" the Ring. It serves to dispute the notion that claiming the Ring would result in an inevitable victory for the claimant, which I considered including in the essay itself but on further analysis could not find any examples of confusion on this topic among my target audience (i.e. careful readers).
+ - Letter 246: A letter to Eileen Elgar, who wrote to Tolkien with some comments regarding Frodo's failure to destroy the Ring at the end. This letter contains some interesting speculation on what would have happened if Gollum had not intervened, or if Gollum had managed to claim the Ring, or if Sam had not come into conflict with Gollum and run him off. This letter contains quite a bit of information on "claiming" the Ring. It serves to dispute the notion that claiming the Ring would result in an inevitable victory for the claimant, which I considered including in the essay itself but on further analysis could not find any examples of confusion on this topic among my target audience (i.e. careful readers).
  - Letter 320: I don't cite this very short letter in the essay itself, but it provides clarity that Galadriel was only pardoned and able to enter the West due to her resistance of the Ring's temptation.
  
 _The Silmarillion_. J.R.R Tolkien and Christopher Tolkien.\
@@ -237,6 +239,6 @@ _The Lord of the Rings_, J.R.R. Tolkien.\
 
 ## Final Note
 
-I hope you find this document helpful or interesting; I certainly enjoyed writing it, but my enjoyment is increased if my readers enjoy it too. Feel free to contact me with any additional questions on the matter. There is quite a bit of information available on the Rings of Power, so I did not have to delve too deeply into opinion or interpretation. That said, I'm always open to feedback or disagreement.
+I hope you find this essay helpful or interesting. I certainly enjoyed writing it, but my enjoyment is increased if my readers enjoy it too. Feel free to contact me with any additional questions on the matter. There is quite a bit of information available on the Rings of Power, so I did not have to delve too deeply into opinion or interpretation. That said, I'm always open to feedback or disagreement.
 
 Thanks for reading!
