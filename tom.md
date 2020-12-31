@@ -25,9 +25,9 @@ There are also two poems involving Tom, but I will address these in their own se
 
 The character of Tom Bombadil first appeared in the Oxford Magazine as the eponymous hero of the poem _The Adventures of Tom Bombadil_. The poem is a lighthearted tale of merry Tom who goes wandering about his domain, cheerfully indifferent to the attempts of various malefactors to capture him. Old Man Willow and the Barrow-wight are among his antagonists.
 
-(It originally surprised me to find that such a creepy, dark creature as the Barrow-wight would have its origins in an otherwise light and cheerful tale such as _The Adventures of Tom Bombadil_. But it certainly does show up there, and is one example out of many of Tolkien taking elements from elsewhere and inserting them into the Legendarium whether they properly "fit" or not. This may sound like a criticism, but it's merely an observation, and I believe it's relevant because Tom himself is another example of this outside character insertion, and keeping this fact in mind will help our understanding of the character.)
+(It originally surprised me to find that such a creepy, dark creature as the Barrow-wight would have its origins in an otherwise light and cheerful tale such as _The Adventures of Tom Bombadil_. But it certainly does show up there, and is one example out of many of Tolkien taking elements from elsewhere and inserting them into the Legendarium whether they properly "fit" or not. This may sound like a criticism, but it's merely an observation. I believe it's relevant because Tom himself is another example of outside character insertion, and keeping this fact in mind will help our understanding of the character.)
 
-Though the original story could take place anywhere, Tolkien published a sequel several decades later which definitively takes place in Middle-earth, entitled _Bombadil Goes Boating_. Although this second poem was written after the publication of both _The Hobbit_ and _The Lord of the Rings_, the first poem predates the publication of _The Hobbit_ by several years.
+Though the original story could take place anywhere, Tolkien published a sequel several decades later which definitively takes place in Middle-earth, entitled _Bombadil Goes Boating_. Although this second poem was written after the publication of both _The Hobbit_ and _The Lord of the Rings_, the first poem predates the publication of _The Hobbit_ by a few years.
 
 The origins of Tom stretch even further back than the publication of the original poem in 1934, however. As Humphery Carpenter recounts in his biography of Tolkien:
 
@@ -61,7 +61,7 @@ In any case, Tolkien intended the latter poem to integrate Bombadil into Middle-
 
 ## How did Tom wind up in _The Lord of the Rings_?
 
-Tolkien had been writing stories for years before the publication of _The Hobbit_. In fact, he had already been working on _The Silmarillion_ for some time. He had made various attempts to sell some longer works of fiction to a publisher, without much success. He had written _The Hobbit_ in the early 1930s, and through a series of coincidences it wound up published (charmingly, Stanley Unwin of the publishing house George Allen & Unwin gave the manuscript to his 10 year old son, whose enthusiastic endorsement sealed the deal). Tolkien recounts this coincidence in a letter to former student W.H. Auden, and also mentions that this same son, then grown, was instrumental in _The Lord of the Rings_ reaching publication some two decades later.
+Tolkien had been writing stories for years before the publication of _The Hobbit_. In fact, he had already been working on _The Silmarillion_ for some time. He had made various attempts to sell some longer works of fiction to a publisher, without much success. He had written _The Hobbit_ in the early 1930s, and through a series of coincidences it wound up published (charmingly, Stanley Unwin of the publishing house George Allen & Unwin gave the manuscript to his 10 year old son, whose enthusiastic endorsement sealed the deal). Tolkien recounts this happening in a letter to former student W.H. Auden, and also mentions that this same son, then grown, was instrumental in _The Lord of the Rings_ reaching publication some two decades later.
 
 As it happens, _The Hobbit_ was not intended to be part of the same overall universe that Tolkien was creating in his work on _The Silmarillion_. He definitely borrowed some characters and names, but did not spend much time making sure that the story _fit_. Which may have been for the best; in any case, the story was published to significant critical acclaim. Enough acclaim, in fact, that the publisher asked him if he wouldn't mind writing a sequel.
 
@@ -133,7 +133,7 @@ The third challenge comes from the claims that Tom makes about himself. We'll ad
 
 ### Is Tom one of the Valar?
 
-Although I said above that Tom seems too powerful to be a Maia, he is not powerful enough to be one of the Valar.
+Although I said above that Tom seems too powerful to be a Maia, he is not powerful _enough_ to be one of the Valar.
 
 It's quite popular to associate Tom with Aulë the smith, mostly because Goldberry seems to bear some similarities to Yavanna, his wife. However, this theory does not withstand even the most casual inspection:
 
@@ -143,7 +143,7 @@ It's quite popular to associate Tom with Aulë the smith, mostly because Goldber
 * The Vala are significant characters in _The Silmarillion_, and were Aulë to incarnate himself into Middle-earth -- an act unprecedented by any of the Valar -- it would surely be mentioned _somewhere_ in all the Legendarium.
 * The above objection regarding Tom's claims about himself also holds true for the Valar as well.
  
-In short; while Tom seems too powerful to be a Maia, he is not powerful _enough_ to be a Vala, and it would be extremely strange for the incarnation of one of the Valar to go unremarked elswhere in the Legendarium.
+In short, I don't see the Tom-as-Vala theory to be any more tenable than any of the above.
 
 ### Is Tom Eru Ilúvatar himself?
 
