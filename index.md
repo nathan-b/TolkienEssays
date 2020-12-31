@@ -12,6 +12,9 @@ A detailed and text-based investigation into the nature and origin of Orcs.
 **[The Rings of Power](rings.md)**\
 The history of the Rings with accompanying exposition on their powers and ultimate fate.
 
+**[Tom Bombadil](tom.md)**\
+He is a merry fellow. Bright blue his jacket is, and his boots are yellow. And also...what exactly _is_ he?
+
 ## Thanks for reading
 That's it for now! 
 
