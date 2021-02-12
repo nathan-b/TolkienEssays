@@ -113,7 +113,11 @@ Whether they were atomized by the eruption of Mount Doom or undone by the fall o
 
 ## If a Nazgûl captured the One Ring, could he claim it for himself?
 
-Should he put the Ring on and try to claim it, Sauron would know and would bend every ounce of his will and power toward forcing the wearer to bring it back. Given that Sauron holds the Nine, it would be no contest. Whether voluntarily or under duress, even the Witch-king would return to Barad-dur and lay the One down at the feet of Sauron.
+Remember what happened when Frodo claimed the Ring at the Cracks of Doom? Sauron knew _immediately_ and sent the remaining Nazgûl to go take it from him. This tells us two things: first, that Sauron would know if someone tried to claim the Ring. And second, that he still has options.
+
+And, of course, Sauron still holds the Nine. Through those Rings, he could control even a One-Ring-wielding Nazgûl. Perhaps given sufficient time to wrest control of the One from Sauron and master its uses, a Nazgûl could free himself. But defeating Sauron is a _prerequisite_ to this happening. And note the line from Gandalf that the wraiths are tied to Sauron. Defeating Sauron is defeating them. It's a cycle of defeat that is inescapable for the Nine.
+
+Should he put the Ring on and try to claim it, Sauron would know and would bend every ounce of his will and power toward forcing the wearer to bring it back. Given that Sauron holds the Nine, it would be no contest. It's difficult to escape the fact that Sauron controls the _wills_ of the Nine. They're his most trusted servants because they _cannot_ betray him. Whether voluntarily or under duress, even the Witch-king would return to Barad-dur and lay the One down at the feet of Sauron. 
 
 ## If a Nazgûl captured the One Ring and his own Ring, what would happen?
 
