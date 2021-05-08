@@ -101,7 +101,7 @@ OK, here we go: the big question, and (to my mind) one of the biggest unresolved
 
 ### Background: How was life created?
 
-The first section of _The Silmarillion_, called the _Ainulindalë_, describes the creation of the universe. The god of Tolkien's Legendarium is called Eru Ilúvatar. He first created a group of angelic beings called the Ainur. Then, he and the Ainur together sang all the rest of the universe into being. But at the very end, Eru himself created two races, the Children of Ilúvatar, Elves and Men. These creations are Eru's and Eru's alone, and into them he breathed life from the Flame Imperishable, the Secret Fire. Yes, Tolkien was quite fond of Cool Things written in Title Caps.
+The first section of _The Silmarillion_, called the _Ainulindalë_, describes the creation of the universe. The god of Tolkien's Legendarium is called Eru, or Ilúvatar. Eru first created a group of angelic beings called the Ainur. After that, he and the Ainur together sang all the rest of the universe into being. But at the very end, Eru himself created two races, called the Children of Ilúvatar: Elves and Men. These creations are Eru's and Eru's alone, and into them he breathed life from the Flame Imperishable, the Secret Fire. Yes, Tolkien was quite fond of Cool Things written in Title Caps.
 
 The evil in the world came about by Melkor, the strongest of the Ainur. He desired to create for himself, and sang his own melody, dissonant to Ilúvatar's music of creation. But most of all, he desired to make his own true creation, imbued with the Flame just as Ilúvatar's children are. He spent much of his time searching for the Flame, but he could not find it, because the Flame is Eru's to bestow.
 
