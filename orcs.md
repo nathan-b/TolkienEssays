@@ -16,7 +16,7 @@ This translation might be the first hint of what Tolkien explicitly states in th
 >
 > JRR Tolkien, Author's Note, _The Hobbit_ 
 
-The name Orc is presumably the Westron version of the Sindarin _Orch_, the word the Elves use to describe those creatures.
+The name Orc is presumably the Westron version of the Sindarin _Orch_, the word the Elves use to describe those servants of Melkor.
 
 There are some passages which can give some confusion, but ultimately the answer is that there is no difference between Orcs and goblins. The two words refer to the same creature.
 
@@ -28,9 +28,9 @@ There are some passages which can give some confusion, but ultimately the answer
 
 In _The Lord of the Rings_, there are a number of cases where regular Orcs (squat, bowlegged, small) are differentiated from Uruks.
 
-At a glance, this seems like a similar case to the above. Uruk, after all, is simply the word for Orc in the Black Speech used in Mordor. But it does seem like there's a qualitative difference between your bog-standard Orc of the Misty Mountains and the Orcs that come from Mordor.
+At a glance, this seems like a similar case to the above. Uruk, after all, is simply the word for Orc in the Black Speech used in Mordor. But the text does imply a qualitative difference between your bog-standard Orc of the Misty Mountains and the Orcs that come from Mordor.
 
-What seems to be the case is that Sauron has been improving on the Orcs created by Melkor, and the ones he's cranking out of Mordor in the Third Age are harder, better, faster, stronger versions of the basic Orc formula.
+The logical inference is that Sauron has been improving on the Orcs created by Melkor, and the ones he's cranking out of Mordor in the Third Age are harder, better, faster, stronger versions of the basic Orc formula.
 
 > In the last years of Denethor I the race of uruks, black Orcs of great strength, first appeared out of Mordor, and in 2475 they swept across Ithilien and took Osgiliath.
 >
