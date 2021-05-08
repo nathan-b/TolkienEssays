@@ -36,7 +36,7 @@ What seems to be the case is that Sauron has been improving on the Orcs created 
 >
 > JRR Tolkien, _The Return of the King_, Appendix A, "Annals of the Kings and Rulers" 
 
-So the answer is that while Uruks and Orcs are technically the same thing, the term Uruks is also specifically used for Sauron's Orcs 2.0, which at the time _The Lord of the Rings_ takes place have been around for some 500 years.
+So the answer is that while Uruks and Orcs are technically the same thing, the term Uruks is also specifically used for Sauron's Orcs 2.0, which at the time _The Lord of the Rings_ takes place have been around for some 500 years and can be differentiated from other Orcs just by sight.
 
 Tolkien provides the same answer in Appendix F:
 
@@ -67,6 +67,33 @@ In the movies we see Saruman doing some sorts of weird breeding experiments with
 Unlike the relatively cut-and-dried section above, Tolkien does not offer any authorial word-of-god to clear us a path (and it should be noted that it's a bit perilous to take Treebeard's word on anything. He's old, but is not counted among the wise. He was about to mistake _Hobbits_ for Orcs until Merry and Pippin corrected him). Whether the term "Uruk-hai" always and only refers to Saruman's Orcs (perhaps Orc 3.0) or as a synonym for Uruk will remain a point of contention. I suspect that the term Uruk-hai could be applied to any Orc of Mordor, but Saruman's forces adopted the term "fighting Uruk-hai" as their own.
 
 (I would be remiss if I didn't acknowledge that there's some disagreement on this point. All agree that Saruman was cross-breeding Orcs and Men. However, not all agree that the Orcs of the White Hand, and specifically the Fighting Uruk-hai, were the result of that cross-breeding. Elsewhere in the story -- for example, Bill Ferny's companion in Bree -- we encounter individuals who are referred to as half-Orc or who are Men with an "Orkish look" about them. Some say that _these_ are the results of Saruman's breeding experiments, and the fighting Uruk-hai are larger and stronger but are not what the above passages about cross-breeding are referring to. This is by no means a majority opinion, but it has enough support from the text to make it worth mentioning here.)
+
+## How long do Orcs live?
+
+> "They needed food and drink, and rest, though many were by training as tough as Dwarves in enduring hardship. They could be slain, and they were subject to disease; but apart from these ills they died and were not immortal, even according to the manner of the Quendi; indeed they appear to have been by nature short-lived compared with the span of Men of higher race, such as the Edain".
+> 
+> JRR Tolkien, _Morgoth's Ring (History of Middle Earth volume 10)_, "Myths Transformed", Text X
+
+The Edain are just...Men (cf: Dúnedain = "Man of the West" or "West-Men"). So if you read that passage literally, as I understand it, it says "they appear to have been by nature short-lived compared with the span of Men of higher race, such as Men". That doesn't make a lot of sense.
+
+The situation is further confused by Bolg, one of the few named Orcs whose lifespan we have a pretty good idea of. Bolg must have been born on or before TA 2799, when his father Azog was killed in the Battle of Azanulbizar (described in _The Lord of the Rings_ Appendix A, "Durin's Folk"). Bolg would also lead the Orc army into the Battle of Five Armies in TA 2941, making him at least 142 years old at the time of his death. He may have been fairly elderly by that point, as we hear more about his bodyguards' feats than his own, but he was at least capable of commanding legions of Orcs on the battlefield.
+
+This brings to mind two possibilities:
+
+1. Tolkien was referring to a specific "high" strain of the Edain, such as the Númenóreans, whose line was enriched by Elven lineage. This would make sense in the context of "Men of higher race", and perhaps he even meant to write "such as the Dúnedain".
+2. The term Edain can also refer specifically to the Men who came first into Beleriand in the First Age. Possibly the Edain of the First Age were by nature much longer-lived than their latter-day descendents, excepting those of Númenórean descent.
+
+Exploring possibility 2 a bit further, it's a little difficult to find concrete evidence of Mannish lifespans in the First Age. But Tolkien does say this:
+
+> The years of the Edain were lengthened, according to the reckoning of Men, after their coming to Beleriand; but at last Bëor the Old died when he had lived three and ninety years, for four and forty of which he had served King Felagund. And when he lay dead, of no wound or grief, but stricken by age, the Eldar saw for the first time the swift waning of the life of Men, and the death of weariness which they knew not in themselves; and they grieved greatly for the loss of their friends.
+> 
+> JRR Tolkien, _The Silmarillion_,  _Quenta Silmarillion_, "Of the Coming of Men into the West"
+
+This implies to me that the first possibility is more likely.
+
+It's also quite probable that as Tolkien's thinkings on Orcs and their origins evolved over the years (the text I quote from above which came from "Myths Transformed" was written some time after the publication of _The Hobbit_) his opinions regarding their lifespans were also revised. The singular example of Bolg does not constitute conclusive proof that Orcs are by nature longer-lived than Men. It is, however, a compelling example worthy of investigation.
+
+Speaking of Tolkien's evolving thoughts on Orkish origins, however....
 
 ## Where did Orcs come from?
 
@@ -122,17 +149,19 @@ Well, Tolkien's first recorded idea about the origin of the Orcs is written in _
 >
 > JRR Tolkien, _The Silmarillion_, _Quenta Silmarillion_, "Of the Coming of the Elves and the Captivity of Melkor" 
 
-This passage serves to confirm both that Melkor could not make life (similar to what Ilúvatar told Aulë) and that the Orcs came about by corrupting Elves. Tolkien muses again on this topic as recorded in _HoME 10_, which will become an important source for this essay:
+This passage serves to confirm both that Melkor could not make life (similar to what Ilúvatar told Aulë) and that the Orcs came about by corrupting Elves. This one passage in _The Silmarillion_ has been the source of quite a bit of confusion on the topic of Orcs and their nature. As is _his_ nature Tolkien waffles a bit ("this is held true by the wise"), but this passage seems to state quite clearly that Orcs came from Elves. Note that at this point in the story the Men have not actually awoken yet, so if you want Orcs to be twisted descendents of corrupted Children, Elves are all you got.
 
-> Out of the discords of the Music — sc. not directly out of either of the themes, Eru's or Melkor's, but of their dissonance with regard one to another — evil things appeared in Arda, which did not descend from any direct plan or vision of Melkor: they were not "his children"; and therefore, since all evil hates, hated him too. The progeniture of things was corrupted. Hence Orcs? Part of the Elf-Man idea gone wrong. Though as for Orcs, the Eldar believed Morgoth had actually "bred" them by capturing Men (and Elves) early and increasing to the utmost any corrupt tendencies they possessed.’
+Tolkien muses again on this topic as recorded in _HoME 10_, which will become an important source for this essay:
+
+> Out of the discords of the Music — sc. not directly out of either of the themes, Eru's or Melkor's, but of their dissonance with regard one to another — evil things appeared in Arda, which did not descend from any direct plan or vision of Melkor: they were not "his children"; and therefore, since all evil hates, hated him too. The progeniture of things was corrupted. Hence Orcs? Part of the Elf-Man idea gone wrong. Though as for Orcs, the Eldar believed Morgoth had actually "bred" them by capturing Men (and Elves) early and increasing to the utmost any corrupt tendencies they possessed.
 >
->JRR Tolkien, _Morgoth's Ring (History of Middle Earth volume 10)_, "Myths Transformed", Text VII 
+> JRR Tolkien, _Morgoth's Ring (History of Middle Earth volume 10)_, "Myths Transformed", Text VII 
 
 In short, Tolkien suggests that possibly Orcs arose as part of the discord between the third theme of creation and the Music sung by Melkor. However, he immediately refutes this idea by suggesting that the Elves themselves believed that Orcs were twisted version of the Children, as outlined above. He also introduces the possibility of Men as well as Elves being the breeding stock used to make Orcs.
 
 However, Christopher Tolkien notes that in the typescript for _The Annals of Aman_ (some of the source material for _The Silmarillion_), Tolkien hand-wrote "Alter this. Orcs are not Elvish."
 
-Tolkien enjoys the habit of equivocating rather than speaking _ex cathedra_ on such matters, as shown above when he says "the Eldar believed" or "so say the Wise." This is one of the reasons why it can be so exhausting to come up with a definite answer for questions like this. Even a direct statement such as the above marginal note seems to be a boon to this research, but who can know the mind of another? Perhaps Tolkien wrote that and then discarded it.
+Tolkien enjoys the habit of equivocating rather than speaking _ex cathedra_ on such matters, as shown above when he says "the Eldar believed." This is one of the reasons why it can be so exhausting to come up with a definite answer for questions like this. Even a direct statement such as the above marginal note seems to be a boon to this research, but who can know the mind of another? Perhaps Tolkien wrote that and then discarded it.
 
 But also in _Morgoth's Ring_, Christopher Tolkien managed to dig up a small monograph by Tolkien. It appears to have been written in 1955, still nearly two decades before his death, but possibly indicative of his thought process. The entire essay is extremely relevant, so rather than several pages of quotations, I will try to summarize:
 
