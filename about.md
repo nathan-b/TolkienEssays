@@ -4,7 +4,7 @@
 
 My name is Nathan, and I've been a fan of J.R.R. Tolkien and his works since I first read _The Hobbit_ as a child.
 
-For several years, I've spent time reading not just the works of Professor Tolkien and his son but also questions and commentary provided by fans. Although there are many vibrant online fandoms -- and there have been since the dayse of Usenet -- the ones I focus on are the [TolkienFans](https://www.reddit.com/r/tolkienfans/) and (less frequently) [TheSilmarillion](https://www.reddit.com/r/thesilmarillion) Subreddits. I have found these communities to be delightfully text-focused (both in the sense that movie-related posts are looked upon very unfavorably and also in the sense that headcanon, theories, and fan-fiction are only acceptable to the degree that they are well-grounded in the original text). They are also an unending source of questions, both from new readers unsure of the basics to grizzled Tolkien veterans wondering about an obscure corner of the Legendarium.
+For several years, I've spent time reading not just the works of Professor Tolkien and his son but also questions and commentary provided by fans. Although there are many vibrant online fandoms -- and there have been since the days of Usenet -- the ones I focus on are the [TolkienFans](https://www.reddit.com/r/tolkienfans/) and (less frequently) [TheSilmarillion](https://www.reddit.com/r/thesilmarillion) Subreddits. I have found these communities to be delightfully text-focused (both in the sense that movie-related posts are looked upon very unfavorably and also in the sense that headcanon, theories, and fan-fiction are only acceptable to the degree that they are well-grounded in the original text). They are also an unending source of questions, both from new readers unsure of the basics to grizzled Tolkien veterans wondering about an obscure corner of the Legendarium.
 
 In early 2020, as a result of global events occurring at that time, I took up the habit of blogging. Though the primary focus was true stories remembered from my own life, I would occasionally weary my readers by writing overly-verbose monographs on various Tolkien-related subjects, usually in response to seeing a preponderance of questions on the topic at hand posted to one of the above Subreddits.
 
@@ -27,3 +27,4 @@ This site does not contain advertising -- I make no money off of this site, nor 
 ### Enjoy!
 
 I hope my love for the world Tolkien wrote into existence comes through in my writing. Thank you for stopping by!
+
