@@ -30,7 +30,7 @@ Through their Rings of Power.
 
 In the Second Age, Sauron acted like he had turned over a new leaf and assumed the guise of Annatar, Lord of Gifts. He taught the Elves how to make powerful rings, filled with magic. Many lesser rings were created, but there were nineteen Rings of Power. Sauron and the Elven smiths created sixteen of them, and Celebrimbor himself, without Sauron's influence, created the greatest three. Annatar gave them all to the Elves as mighty gifts to be worn by their strongest and greatest. However, Sauron himself in secret forged the One Ring, the Ruling Ring.
 
-Although the Rings of Power were originally intended to enslave the Elves, that plain failed. Enraged, Sauron turned his attention to the other races of Middle-earth, and found the race of Men to be a very suitable target. He managed to corrupt nine men in all: three Numenoreans, one Easterling, and some others we know even less about.
+Although the Rings of Power were originally intended to enslave the Elves, that plan failed. Enraged, Sauron turned his attention to the other races of Middle-earth, and found the race of Men to be a very suitable target. He managed to corrupt nine men in all: three Numenoreans, one Easterling, and some others we know even less about.
 
 The Rings granted the Men what they desired: long life. However, they also allowed Sauron to dominate their wills and eventually control their very beings. These beings became the Ringwraiths, or Nazgûl.
 
