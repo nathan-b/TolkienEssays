@@ -15,6 +15,9 @@ The history of the Rings with accompanying exposition on their powers and ultima
 **[Tom Bombadil](tom.md)**\
 He is a merry fellow. Bright blue his jacket is, and his boots are yellow. And also...what exactly _is_ he?
 
+**[Dragons](dragons.md)**\
+Fierce, clever, iconic. How did Dragons enter the Legendarium, and what did they do there?
+
 ## Thanks for reading
 That's it for now! 
 
