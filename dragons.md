@@ -122,7 +122,7 @@ Dragons are differentiated along three axes:
 * Wings, or no?
 * How many legs?
 
-In Tolkien's writing, fire-breathing dragons are called fire-drakes. Angcalagon and Smaug are fire-drakes. Non-fire-breathing dragons are called cold-drakes. Glaurung and Scatha are cold-drakes.
+In Tolkien's writing, fire-breathing dragons are called fire-drakes. Glaurung, Angcalagon and Smaug are all fire-drakes. Non-fire-breathing dragons are called cold-drakes. Scatha is a cold-drake, as is the dragon that killed Dáin I.
 
 Dragons with wings are called, accurately enough, winged dragons. Angcalagon and Smaug are winged dragons. Glaurung and Scatha are not winged dragons.
 
